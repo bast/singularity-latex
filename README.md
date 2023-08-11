@@ -2,7 +2,7 @@
 
 How to fetch and use the image:
 ```
-$ singularity pull https://github.com/bast/singularity-latex/releases/download/0.1.0/pdflatex.sif
+$ singularity pull https://github.com/bast/singularity-latex/releases/download/0.2.0/pdflatex.sif
 $ ./pdflatex.sif example.tex
 ```
 
